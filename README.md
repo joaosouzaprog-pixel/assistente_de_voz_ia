@@ -1,5 +1,7 @@
 # 🏢 Assistente de Voz para Produtividade Corporativa
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joaosouzaprog-pixel/assistente_de_voz_ia/blob/main/Assistente_Voz_Whisper_gTTS.ipynb)
+
 Este repositório apresenta uma solução de **Interface de Voz (VUI)** desenvolvida em Python, focada em automação de rotinas de escritório. O projeto utiliza modelos de Inteligência Artificial de ponta para converter voz em comandos e responder vocalmente ao usuário.
 
 ---
