@@ -40,4 +40,4 @@ Para rodar este projeto no **Google Colab**:
 > **Nota:** O uso do modelo `small` do Whisper garante uma taxa de acerto superior para termos técnicos em português quando comparado ao modelo `base`.
 
 ---
-⭐ Desenvolvido por **João Souza** durante a jornada na DIO!n]
+⭐ Desenvolvido por **João Souza** durante a jornada na DIO!
